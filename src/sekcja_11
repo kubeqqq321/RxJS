@@ -1,0 +1,14 @@
+Observables -> Nie jets to koncepcja która jest typowa dla Angulara, jest ona wprowadzona przez bibliotekę RxJS
+
+Observable -> jest obiektem który wytwarza i kontroluje strumień danych
+
+
+--------------------------------------------------------------------------------------------------------------
+Observable -> Jest to strumień danych który może emitować zdarzenia w czasie
+Signals -> Są to kontenery wartości. Można zmienić wartość w tych kontenerach i każdy subskrybent zostanie o tym powiadomiony.
+           wartości z Signal można odczytać w dowolnym momencie bez konieczności zakładania subskrybcji.
+           Wykonywane jest to automagtycznie
+
+
+
+
